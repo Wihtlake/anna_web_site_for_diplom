@@ -6,7 +6,7 @@
 }
 @font-face {
 	font-family: Oswald;
-	src: url(/fonts/Oswald-ExtraLight.ttf);
+	src: url(fonts/Oswald-ExtraLight.ttf);
 }
 
 ul{
@@ -41,7 +41,7 @@ img{
 
 .slider {
 	height: 997px;
-	background: url(/img/Products/banner.png);
+	background: url(img/Products/banner.png);
 }
 .slider_main {
 	padding-top: 289px;
